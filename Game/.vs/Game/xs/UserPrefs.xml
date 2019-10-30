@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{38D74792-222A-4280-8A43-FDFDBE74487A}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game" expanded="True">
+            <Node name="rockPaperScissorTests" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Game" expanded="True" selected="True">
+            <Node name="rockPaperScissorTests" expanded="True">
+              <Node name="rockPaperScissorTests" expanded="True">
+                <Node name="Business" expanded="True">
+                  <Node name="GameBusinessTest" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.rockPaperScissor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
